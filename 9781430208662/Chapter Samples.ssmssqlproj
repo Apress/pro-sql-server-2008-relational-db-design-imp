@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Chapter Samples">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\Katmai:NTD1\LBDAVI">
+          <Created>2008-08-18T22:42:20.2704983-05:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\Katmai</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AP B (Datatype Reference).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\Katmai:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\Katmai</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AP B (Datatype Reference).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch 05 (Implementing the Base Table Structures).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\Katmai:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\Katmai</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Ch 05 (Implementing the Base Table Structures).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch 06 (Protecting the Integrity of Your Data).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ch 06 (Protecting the Integrity of Your Data).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch 07 (Patterns and Query Techniques).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ch 07 (Patterns and Query Techniques).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch 08 (Securing Access to the Data).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ch 08 (Securing Access to the Data).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch 09 (Table Structures and Indexing).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ch 09 (Table Structures and Indexing).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch 10 (Coding for Concurrency).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ch 10 (Coding for Concurrency).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch 11 (Cosidering Data Access Strategies).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ch 11 (Cosidering Data Access Strategies).sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
